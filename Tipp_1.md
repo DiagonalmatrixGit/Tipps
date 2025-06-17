@@ -1,7 +1,7 @@
 Das äußere unbewegliche Metallgerüst nennt sich Stator.
 
-1) Untersuche das Magnetfeld mithilfe eines Magneten oder einer Kompassnadel.
-
-2) Markiere farblich, wie sich der Dauermagnet auf die beiden Metallbauteile auswirkt.
+Untersuche die beiden seitlichen Metallstangen auf Magnetismus.
+Wie hängt das mit der Beobachtung an der langen Spule zusammen?
 
 ![Stator](images/Bild1.jpg)
+
