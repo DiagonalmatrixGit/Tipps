@@ -1,4 +1,4 @@
-Das äußere unbewegliche Metallgerüst nennt sich Stator.
+Das äußere unbewegliche Metallgerüst nennt man Stator. Links und rechts befinden sich zwei Metallstangen, die mit einem Dauermagneten oben verbunden sind.
 
 Untersuche die beiden seitlichen Metallstangen auf Magnetismus.
 
